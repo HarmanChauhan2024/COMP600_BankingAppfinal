@@ -11,7 +11,7 @@ This project implements a menu‑driven console banking app following **MVC** an
 3) Build & run:
    ```bash
   mvn spring-boot:run
-http://localhost:8088/
+http://localhost:8083/
    ```
 
 ## Features
